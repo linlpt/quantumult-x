@@ -1574,16 +1574,6 @@ DOMAIN-KEYWORD,buy.itunes.apple.com,Apple
 DOMAIN-KEYWORD,smp-device,Apple
 DOMAIN-KEYWORD,testflight,Apple
 DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
-IP-CIDR,139.178.128.0/18,no-resolve,Apple
-IP-CIDR,144.178.0.0/19,no-resolve,Apple
-IP-CIDR,144.178.36.0/22,no-resolve,Apple
-IP-CIDR,144.178.48.0/20,no-resolve,Apple
-IP-CIDR,17.0.0.0/8,no-resolve,Apple
-IP-CIDR,192.35.50.0/24,no-resolve,Apple
-IP-CIDR,198.183.17.0/24,no-resolve,Apple
-IP-CIDR,205.180.175.0/24,no-resolve,Apple
-IP-CIDR,63.92.224.0/19,no-resolve,Apple
-IP-CIDR,65.199.22.0/23,no-resolve,Apple
 PROCESS-NAME,CoreLocationAgent,Apple
 PROCESS-NAME,WeatherWidget,Apple
 PROCESS-NAME,apsd,Apple
